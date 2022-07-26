@@ -10,7 +10,7 @@ I have build this website with my core HTML CSS skills.
 
 ![image](./images/completed.png)
 
-You can check out here: [Interior Design By Hitesh](https://justice-by-hitesh.netlify.app/)
+You can check out here: [Interior Design By Hitesh](https://interior-desig-by-hitesh.netlify.app/)
 
 
 
